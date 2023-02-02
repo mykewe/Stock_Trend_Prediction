@@ -5,5 +5,5 @@ The goal of the project is to develop a web application that predicts stock tren
 
 * LSTM model.ipynb: Exploratory data analysis and data training is done here
 * app.py : web application is built here
-* requirement.txt: libraries requiremnet
+* requirement.txt: libraries requirement
 * keras_model.h5: saved keras model for inference
